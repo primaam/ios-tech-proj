@@ -18,10 +18,6 @@ class ViewController: UIViewController {
         UIImage(named: "ball4"),
         UIImage(named: "ball5"),
     ]
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-    }
 
     @IBAction func askButtonPressed(_ sender: Any) {
         imageView.image = ballArr[Int.random(in: 0...4)]
