@@ -29,7 +29,6 @@
                                                 <rect key="frame" x="109" y="70.5" width="196" height="128"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="Hzy-9f-bWj" firstAttribute="centerY" secondItem="RJO-l4-hhX" secondAttribute="centerY" id="IJp-5t-OUt"/>
                                             <constraint firstItem="Hzy-9f-bWj" firstAttribute="centerX" secondItem="RJO-l4-hhX" secondAttribute="centerX" id="giq-mB-YkI"/>
@@ -50,7 +49,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="HHu-Te-Kn4" firstAttribute="centerY" secondItem="ZEA-mJ-8fg" secondAttribute="centerY" id="Fre-G8-wiM"/>
                                             <constraint firstItem="HHu-Te-Kn4" firstAttribute="centerX" secondItem="ZEA-mJ-8fg" secondAttribute="centerX" id="yw4-gQ-eh2"/>
@@ -78,7 +76,6 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="oYI-zg-LiW" firstAttribute="centerY" secondItem="9cw-UJ-yAm" secondAttribute="centerY" id="3Id-Vj-jJo"/>
                                             <constraint firstItem="oYI-zg-LiW" firstAttribute="centerX" secondItem="9cw-UJ-yAm" secondAttribute="centerX" id="KoJ-z0-FSq"/>
